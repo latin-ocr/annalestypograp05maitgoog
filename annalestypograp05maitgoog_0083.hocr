@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./annalestypograp05maitgoog_0083.png"; bbox 0 0 4380 5722; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 767 1908 1125 2260">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 767 1908 1125 2260">
+     <span class='ocr_line' id='line_1_1' title="bbox 900 1908 956 2017; baseline -0.054 0"><span class='ocrx_word' id='word_1_1' title='bbox 900 1908 956 2017; x_wconf 91' lang='lat'><strong>11</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 767 2144 1125 2260; baseline -0.053 0"><span class='ocrx_word' id='word_1_2' title='bbox 767 2144 1125 2260; x_wconf 84' lang='lat' dir='ltr'>LIBRI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 830 2394 1025 2463">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 830 2394 1025 2463">
+     <span class='ocr_line' id='line_1_3' title="bbox 830 2394 1025 2463; baseline -0.036 1"><span class='ocrx_word' id='word_1_3' title='bbox 830 2394 1025 2463; x_wconf 87' lang='lat' dir='ltr'><strong>INDICIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 426 2582 1419 2683">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 426 2582 1419 2683">
+     <span class='ocr_line' id='line_1_4' title="bbox 426 2582 1419 2683; baseline 0.001 -16"><span class='ocrx_word' id='word_1_4' title='bbox 426 2583 608 2683; x_wconf 81' lang='lat' dir='ltr'>ANNI,</span> <span class='ocrx_word' id='word_1_5' title='bbox 664 2583 830 2682; x_wconf 88' lang='lat' dir='ltr'><strong>LOCI‚</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 892 2584 972 2662; x_wconf 85' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1020 2582 1419 2668; x_wconf 82' lang='lat' dir='ltr'><strong>TYPOGRAPHI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 808 2796 1051 2854">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 808 2796 1051 2854">
+     <span class='ocr_line' id='line_1_5' title="bbox 808 2796 1051 2854; baseline 0.012 -3"><span class='ocrx_word' id='word_1_8' title='bbox 808 2796 1051 2854; x_wconf 67' lang='lat' dir='ltr'><strong>nnsmvrt.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2194 5722">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2194 5722">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2194 5722; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2194 5722; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
